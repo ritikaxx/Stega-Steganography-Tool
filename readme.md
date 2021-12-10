@@ -8,8 +8,6 @@ Clone the Repo
 
     git clone https://github.com/ADI-KOTKAR/Stega.git
     
-Python 3
-Install Python 3 in your system. click here
 
 Installing Dependencies
 
