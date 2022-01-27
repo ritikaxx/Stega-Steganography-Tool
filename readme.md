@@ -6,7 +6,7 @@ Stega is a steganography tool which makes sending messages in the form of text o
 
 Clone the Repo
 
-    git clone https://github.com/ADI-KOTKAR/Stega.git
+    git clone https://github.com/ritikaxx/Stega-Steganography-Tool
     
 
 Installing Dependencies
